@@ -12,7 +12,7 @@ Use a Query to get all the columns of the table between the years 2016-2019.
 + Step 3.
 Export the data to an CSV file like shown below
 
-
+![Screenshot_2](https://github.com/Dimitris-VR/Final-Project/assets/80831226/0f419def-e386-4267-9ac9-f8704f0ba5ae)
 
 
 + Step 4.
