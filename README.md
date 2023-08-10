@@ -25,4 +25,7 @@ Use Matplotlib or Tableau with the newly made CSV file and present your Data.
 Write a report of the steps you did and what difficulties you faced.
 
 
-## 
+## The visualization should look similar to something like this:
+
+### If you are using Tableau
+
