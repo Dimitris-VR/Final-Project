@@ -12,4 +12,17 @@ Use a Query to get all the columns of the table between the years 2016-2019.
 + Step 3.
 Export the data to an CSV file like shown below
 
-![Screenshot_2](https://github.com/Dimitris-VR/Final-Project/assets/80831226/bfc5dbd4-5668-4b83-b00f-55f966162f17)
+
+
+
++ Step 4.
+Use Python and Pandas to Aggregate the CSV data so we can get the most popular item sold based on zip code and percentage of sales per store.
+
++ Step 5.
+Use Matplotlib or Tableau with the newly made CSV file and present your Data.
+
++ Step 6.
+Write a report of the steps you did and what difficulties you faced.
+
+
+## 
