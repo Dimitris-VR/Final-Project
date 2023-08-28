@@ -30,3 +30,6 @@ Write a report of the steps you did and what difficulties you faced.
 ### If you are using Tableau
 
 ![Screenshot_1](https://github.com/Dimitris-VR/Final-Project/assets/80831226/4aa4d454-024d-4afd-b600-009ffa29f38c)
+
+### If you are using Python
+
