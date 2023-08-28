@@ -33,3 +33,5 @@ Write a report of the steps you did and what difficulties you faced.
 
 ### If you are using Python
 
+![Figure 2023-08-28 155815](https://github.com/Dimitris-VR/Final-Project/assets/80831226/a6daaf7e-95ad-4345-90d3-cd4377b21593)
+![Figure 2023-08-28 155828](https://github.com/Dimitris-VR/Final-Project/assets/80831226/fe766638-d4b9-4df0-b2d6-2e2463001ce1)
